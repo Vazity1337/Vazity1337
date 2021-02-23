@@ -1,5 +1,5 @@
 ## Vazity
-👋 Hey im Vazity, most of my projects are private but im working on more github repos
+Hey im Vazity! Im a Full-Stack developer and Reverse Engineer, most of my projects are private but im working on more github repos.
 
 ### Contact
 <a href="https://vazity.xyz/">Vazity.xyz</a>
